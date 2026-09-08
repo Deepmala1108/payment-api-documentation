@@ -1,0 +1,7 @@
+{
+  "id": "PAY12345",
+  "status": "successful",
+  "amount": 1000,
+  "currency": "INR",
+  "customer_id": "CUS12345"
+}
